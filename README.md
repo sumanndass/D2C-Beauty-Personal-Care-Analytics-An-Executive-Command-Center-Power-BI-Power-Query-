@@ -272,5 +272,4 @@ Built to defend the performance marketing budget and evaluate agency efficiency.
 
 I specialize in bridging the gap between raw data architecture and executive decision-making. I build end-to-end business intelligence solutions that don't just display numbers, but tell a compelling, actionable business story.
 
-  * 🔗 **LinkedIn:** [linkedin.com/in/sumanndass](https://www.google.com/search?q=https://www.linkedin.com/in/sumanndass)
-  * 🐙 **GitHub:** [github.com/sumanndass](https://github.com/sumanndass)
+  * 🌐 **Portfolio:** [Portfolio](https://sumanndass.github.io/)
